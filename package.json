@@ -1,0 +1,13 @@
+{
+  "name": "proyectosjs",
+  "version": "1.0.0",
+  "description": "Proyectos cursos ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node saludo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marta",
+  "license": "ISC"
+}
